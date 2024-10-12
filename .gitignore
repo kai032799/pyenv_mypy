@@ -1,0 +1,9 @@
+.venv
+bin/
+etc/
+include/
+lib/
+share/
+*.mp4
+*.cfg
+.DS_Store
